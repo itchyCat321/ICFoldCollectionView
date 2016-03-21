@@ -1,2 +1,2 @@
 # ICFoldCollectionView
-![](https://github.com/itchyCat321/ICFoldCollectionView//raw/master/gif/fold.gif)  
+![](https://github.com/itchyCat321/ICFoldCollectionView/blob/master/ICFoldCollectionView/ICFoldCollectionView/fold.gif)  
